@@ -1,0 +1,48 @@
+## Compilación
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+build/
+[Bb]uild/
+[Oo]ut/
+
+## Archivos de usuario
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+## Logs y temporales
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+
+## Configuraciones locales
+.vs/
+.vscode/
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+
+## Archivos del sistema
+Thumbs.db
+desktop.ini
+
+## Publicaciones
+publish/
+*.Publish.xml
+*.pubxml
+*.publishproj
+
+## Otros
+TestResults/
+*.editorconfig
+*.exe
+*.dll
+*.pdb
