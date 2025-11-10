@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicios_Post_Parcial_DOO_Ej5", "Ejercicios_Post_Parcial_DOO_Ej5\Ejercicios_Post_Parcial_DOO_Ej5.csproj", "{6527FA9C-11AF-4FC4-8DBC-96E0F99A1DCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6527FA9C-11AF-4FC4-8DBC-96E0F99A1DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6527FA9C-11AF-4FC4-8DBC-96E0F99A1DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6527FA9C-11AF-4FC4-8DBC-96E0F99A1DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6527FA9C-11AF-4FC4-8DBC-96E0F99A1DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEE4E8D6-7A68-48C5-9BDD-18679DC45FF6}
+	EndGlobalSection
+EndGlobal
